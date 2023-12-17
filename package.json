@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rahul-raj9367.github.io/portfolio/",
+  "homepage": "https://AnitusJohn.github.io/profile/",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -20,7 +20,6 @@
     "aos": "^2.3.4",
     "axios": "^1.6.2",
     "framer-motion": "^10.16.5",
-    "gh-pages": "^6.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
@@ -34,6 +33,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.4",
+    "gh-pages": "^6.1.0",
     "react-router-dom": "^6.19.0",
     "vite": "^5.0.0"
   }
